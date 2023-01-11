@@ -1,3 +1,4 @@
 bridge.mp4
-yolov5s.pt
+*.pt
 *.ipynb
+*yolov7
